@@ -21,10 +21,21 @@
 В качестве тестовых данных использовались данные номеров карт с сайта [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html) :
 
 * 375874742349835 : Result is OK
+* 344135496909671 : Result is ОК
+* 343781799085049 : Result is ОК
+* 377381794608496 : Result is ОК
+* 377981554739074 : Result is ОК
 * 4181875271458331 : Result is OK
-* 4716306334597278259 : Result is OK
 * 4716597548010869 : Result is OK
 * 5270143967483231 : Result is OK
+* 2720990161299992 : Result is OK
+* 6763109882828935 : Result is OK
+* 4716306334597278259 : Result is OK
+* 3533487803936401245 : Result is OK
+* 4024007144814989005 : Result is OK
+* 6011308927048699320 : Result is OK
+* 4539002763561099213 : Result is OK
+
 
 
 
